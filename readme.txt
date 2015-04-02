@@ -44,6 +44,11 @@ Yes, for it to work you must first have an account on ConvertKit.com
 
 == Changelog ==
 
+
+### 1.3.3
+
+* Moving the plugin files to the root directory
+
 ### 1.3.2
 
 * Another fix for a pesky bug causing syntax errors
